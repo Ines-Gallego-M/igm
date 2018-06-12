@@ -1,0 +1,104 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="inesgallego.com" resolutions="1x" timestamp="1528793422015">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="483192081" ref="index:demoreel:galeria:sobremi"/>
+    <file name="index.css" crc="506343390" ref="index"/>
+    <file name="demoreel.css" crc="117723938" ref="demoreel"/>
+    <file name="galeria.css" crc="3998809340" ref="galeria"/>
+    <file name="sobremi.css" crc="415781915" ref="sobremi"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:galeria:demoreel:sobremi"/>
+    <file name="museutils.js" crc="4216313831" ref="index:galeria:demoreel:sobremi"/>
+    <file name="whatinput.js" crc="86476730" ref="index:galeria:demoreel:sobremi"/>
+    <file name="museconfig.js" crc="474374037" ref="index:galeria:demoreel:sobremi"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:galeria:demoreel:sobremi"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:galeria:demoreel:sobremi"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:galeria:demoreel:sobremi"/>
+    <file name="require.js" crc="3951022091" ref="index:galeria:demoreel:sobremi"/>
+    <file name="webpro.js" crc="4143865194" ref="galeria:sobremi"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="galeria"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="galeria"/>
+    <file name="touchswipe.js" crc="4200445185" ref="galeria"/>
+    <file name="form_check.php" crc="154010282" ref="sobremi"/>
+    <file name="form_throttle.php" crc="266437015" ref="sobremi"/>
+    <file name="form_process.php" crc="512629711" ref="sobremi"/>
+    <file name="form-u1291.php" crc="245430153" ref="sobremi"/>
+  </folder>
+  <folder name="images">
+    <file name="u101-4.png" crc="255259128" ref="index:galeria:demoreel:sobremi"/>
+    <file name="u2377-4.png" crc="3761448842" ref="index"/>
+    <file name="bnha-crop-u970.png" crc="42985940" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="ca66x45.png" crc="4181031290" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="gallegoines_renderfinal_jpg-crop-u2016.jpg" crc="22457082" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="imagen_render-crop-u2036.jpg" crc="287332923" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="renderlapices-crop-u2056.jpg" crc="208466184" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="dedo1-crop-u2107.jpg" crc="3959581731" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="dedo2-crop-u2127.jpg" crc="4171096870" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mano1-crop-u2147.jpg" crc="235185100" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mano2-crop-u2167.jpg" crc="4198687845" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="bnha.png" crc="4078169549" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="galeria"/>
+    <file name="ca.png" crc="503885144" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="gallegoines_renderfinal_jpg.jpg" crc="3946134992" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="imagen_render.jpg" crc="4238974451" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="renderlapices.jpg" crc="22188502" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="dedo1.jpg" crc="3858547491" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="dedo2.jpg" crc="4026882666" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mano1.jpg" crc="455544368" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mano2.jpg" crc="3816508661" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="galeria"/>
+    <file name="cv.jpg" crc="3830228810" seo="true" ref="sobremi">
+      <caption webpage="sobremi" alt=""/>
+    </file>
+    <file name="twitter.png" crc="495455011" seo="true" ref="sobremi">
+      <caption webpage="sobremi" alt=""/>
+    </file>
+    <file name="linkedin.png" crc="176975451" seo="true" ref="sobremi">
+      <caption webpage="sobremi" alt=""/>
+    </file>
+    <file name="youtube.png" crc="3790090258" seo="true" ref="sobremi">
+      <caption webpage="sobremi" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="239206883" seo="true" mt="1528736090306" redirect="true"/>
+  <file name="galeria.html" crc="3930053116" seo="true" mt="1528793235863" redirect="true"/>
+  <file name="demoreel.html" crc="63266875" seo="true" mt="1528736363473" redirect="true"/>
+  <file name="sobremi.html" crc="3886197863" seo="true" mt="1528792976657" redirect="true"/>
+</manifest>
